@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3099
+
+Small script to ease renaming a set of files
+
+The idea is to make multiple file renaming as easy (and powerful) as editing a dump of file names. The script will just generate a script with the rename commands
+
